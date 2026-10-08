@@ -1,0 +1,6 @@
+{
+  "name": "University Bus Monitoring & Management System",
+  "description": "A comprehensive Software Project Management (SPM) web application for university bus tracking, schedules, driver trip updates, and fleet administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
